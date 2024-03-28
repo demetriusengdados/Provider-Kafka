@@ -1,0 +1,9 @@
+{
+	"name": "cursoengdados-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "83697665-4626-497b-8c05-09b768184794",
+		"tenantId": "42fd8491-0918-442c-9be5-e91b1ac8c23b"
+	}
+}
